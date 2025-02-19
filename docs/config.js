@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/pxx_project/',
+  base: '/pxx_project/dist',
   title: '技术中心软件说明',
   description: '技术中心软件说明',
   themeConfig: {
